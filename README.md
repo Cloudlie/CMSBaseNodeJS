@@ -11,7 +11,7 @@
   
 1、克隆指定项目到本地目录：git clone https://github.com/Cloudlie/CMSBaseNodeJS.git  
 2、安装项目依赖包：npm install  
-3、运行数据库：mongod --dbpath yourDataDir 如mongod --dbpath H:\myData 
+3、运行数据库：mongod --dbpath yourDataDir 如mongod --dbpath H:\myData   
 4、运行服务器并启动项目：supervisor index.js 
 
 ##主要功能  
