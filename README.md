@@ -49,6 +49,10 @@
 [markdown](http://daringfireball.net/projects/markdown/syntax)  
 [supervisor](https://github.com/petruisfan/node-supervisor)  
 
+##苦难史
+
+1、访问首页加载不了模板页，检查了半小时后发现引入模板页时少写了一个单引号
+
 
 
 

@@ -22,7 +22,7 @@
     "url": "https://github.com/Cloudlie/CMSBaseNodeJS/issues"
   },
   "homepage": "https://github.com/Cloudlie/CMSBaseNodeJS#readme",
-    "dependencies": {
+  "dependencies": {
     "koa-static": "latest",
     "co": "^4.5.4",
     "co-body": "^2.0.0",
@@ -39,11 +39,19 @@
     "cheerio": "0.20.0",
     "superagent": "latest",
     "iconv-lite": "0.4.13",
-    "superagent-charset":"latest"
+    "superagent-charset": "latest"
   },
   "devDependencies": {
     "mocha": "^2.2.5",
     "should": "^7.0.1",
     "supertest": "^1.0.1"
-  }
+  },
+  "scripts": {
+    "test": "",
+    "start": "node --harmony index.js"
+  },
+  "engines": {
+    "node": "5.4.1"
+  },
+  "license": "MIT"
 }
