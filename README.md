@@ -13,7 +13,7 @@
 2、安装项目依赖包：npm install  
 3、运行数据库：mongod --dbpath yourDataDir 如mongod --dbpath H:\myData  
 
-主要功能  
+#主要功能  
   
 	前台发布  
 		首页  
@@ -35,7 +35,7 @@
 		关键字管理
 
 
-参考资料
+#参考资料
 
 [jQuery](https://jquery.com/)  
 [bootstrap](http://getbootstrap.com/)  
