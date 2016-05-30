@@ -1,11 +1,8 @@
-CMSBaseNodeJS
-=============
-
-简介
+#CMSBaseNodeJS
 
 这是一个基于 NodeJS 并且以 KoaJS 作为 Web 框架、以 MongoDB 作为数据库的内容发布系统。  
 
-如何开始  
+##如何开始  
 
 安装 [Nodejs](https://nodejs.org/en/)  
 安装 [MongoDB](https://www.mongodb.com/download-center?jmp=nav#community)  
