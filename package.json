@@ -1,0 +1,25 @@
+{
+  "name": "cmsbasenodejs",
+  "version": "1.0.0",
+  "description": "This is a content management system with nodejs and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cloudlie/CMSBaseNodeJS.git"
+  },
+  "keywords": [
+    "cms",
+    "nodejs",
+    "mongodb",
+    "koa"
+  ],
+  "author": "cloudlie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cloudlie/CMSBaseNodeJS/issues"
+  },
+  "homepage": "https://github.com/Cloudlie/CMSBaseNodeJS#readme"
+}
